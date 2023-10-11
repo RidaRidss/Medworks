@@ -1,4 +1,4 @@
 # Medworks
 React Native App
 
-##### https://play.google.com/store/apps/details?id=com.dd.medworks
+##### https://play.google.com/store/apps/details?id=com.dd.medgen
